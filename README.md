@@ -12,6 +12,7 @@ MusicMaze is an online store offering a wide selection of musical instruments an
 - **Pagination**: Navigate through multiple pages of products effortlessly.
 - **Order History**: View past orders for easy reference.
 - **Payment Page**: Securely process payments with our integrated checkout system.
+- **Sort and Filter**:Arranges products in order and Narrows down products by specific choices.
 
 ## Technologies Used
 

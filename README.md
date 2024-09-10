@@ -32,4 +32,4 @@ To set up the project locally, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/KattaAkshaya/E-Commerce-Store.git
+   git clone https://github.com/KattaAkshaya/Musicmaze-ecommerce-website.git
